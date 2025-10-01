@@ -10,4 +10,4 @@ This repository contains my NumPy practice exercises in Python.
 
 ## How to Run
 ```bash
-python numpy_practice.py
+python numpy_Practice.py
